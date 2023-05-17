@@ -1,0 +1,60 @@
+.vert {
+  background-color: rgb(55, 196, 0);
+  border-radius: 15px 30px 40px 45px;
+  width: 100px;
+  height: 100px;
+ 
+ 
+}
+.marron {
+  
+  background-color: rgb(73, 73, 41);
+  border-radius: 15px 50px;
+  width: 100px;
+  height: 100px;
+
+}
+
+.bleu {
+  background-color: rgb(15, 151, 185);
+  border-radius: 50px 0px 50px 0px;
+  width: 100px;
+  height: 100px;
+
+  
+}
+
+.bleu1 {
+  background-color: aqua;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+ 
+
+}
+
+#carre {
+  display: flex;
+
+}
+body{
+  background-image: linear-gradient(to right, red , rgb(0, 255, 34));
+    margin: auto;
+    width: 960px;
+}
+.blanc{
+
+   
+     width: 100px;
+  height: 100px;
+
+} 
+h1{
+text-align: center;
+      
+}
+section{
+
+    border: 5px solid black ;
+margin: 50px;
+}

@@ -1,0 +1,25 @@
+.cube {
+  background: darkviolet;
+  border-radius: 10%;
+  width: 100px;
+  height: 100px;
+  float: left;
+  border: 2px solid black;
+  margin-left: 5px;
+   margin-top: 5px;
+}
+
+.cube1 {
+  background: rgb(27, 173, 14);
+  border-radius: 10%;
+  width: 100px;
+  height: 100px;
+  float: left;
+  border: 2px solid black;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+.ok {
+  clear: both;
+}

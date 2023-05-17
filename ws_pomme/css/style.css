@@ -1,0 +1,49 @@
+body{
+width: 700px;
+background-color: rgb(219, 212, 150);
+margin: auto;
+}
+
+
+
+
+
+header{
+background-color: white ;
+
+display: flex;
+justify-content: center;
+
+
+}
+
+nav>div>div{
+    background-color: lawngreen;
+  float: left;
+    width: 150px;
+ text-align: center;
+    color: white;
+}
+.menu2{
+
+    margin-left: 50px;
+}
+p{
+    margin: 0;
+}
+.yesyes{
+    display: flex;
+ background-color: lawngreen;
+}
+.yes12{
+padding: 10px;
+    flex-direction: column;
+}
+main{
+
+    background-color: white;
+}
+.yes13{
+
+    
+}
